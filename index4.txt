@@ -1,0 +1,1 @@
+This index4.txt is made to learn git merge and git branches.
